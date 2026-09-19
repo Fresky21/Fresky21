@@ -48,33 +48,12 @@
 
 ### Proyek Unggulan
 
-<div align="center">
+| Proyek | Deskripsi | Tech |
+|---|---|---|
+| [**credchain-academic**](https://github.com/Fresky21/credchain-academic) | Sistem verifikasi sertifikat akademik & badge kompetensi berbasis NFT di Polygon Amoy | Solidity, Blade |
+| [**pekaporto**](https://github.com/Fresky21/pekaporto) | Analisis overlap risiko antara sektor penghasilan dan portofolio saham — Sectors Hackathon 2026 | PHP |
 
-<a href="https://github.com/Fresky21/credchain-academic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fresky21&repo=credchain-academic&bg_color=0D1117&title_color=E75FA8&text_color=C9D1D9&icon_color=FF8FCF&border_color=E75FA8" />
-</a>
-<a href="https://github.com/Fresky21/pekaporto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fresky21&repo=pekaporto&bg_color=0D1117&title_color=E75FA8&text_color=C9D1D9&icon_color=FF8FCF&border_color=E75FA8" />
-</a>
 
-</div>
-
----
-
-### Statistik GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fresky21&show_icons=true&hide_border=false&bg_color=0D1117&title_color=E75FA8&text_color=C9D1D9&icon_color=FF8FCF&border_color=E75FA8&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fresky21&layout=compact&bg_color=0D1117&title_color=E75FA8&text_color=C9D1D9&border_color=E75FA8&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Fresky21&background=0D1117&stroke=E75FA8&ring=E75FA8&fire=FF8FCF&currStreakLabel=E75FA8&sideLabels=C9D1D9&dates=8B949E&border=E75FA8" />
-
-</div>
-
----
 
 ### Grafik Aktivitas
 
@@ -101,7 +80,7 @@
 <div align="center">
 
 <a href="mailto:anzalnags21@gmail.com"><img src="https://img.shields.io/badge/Email-E75FA8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/Anzalna_Fresky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://www.instagram.com/fresky.tzy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
